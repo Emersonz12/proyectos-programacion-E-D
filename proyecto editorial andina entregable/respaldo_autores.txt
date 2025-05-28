@@ -1,0 +1,36 @@
+Nombre: daniel
+Nacionalidad: colombiano
+Edad: 19
+Nombre: julian
+Nacionalidad: colombiano
+Edad: 41
+Nombre: sky
+Nacionalidad: estado unidense
+Edad: 23
+Nombre: milena
+Nacionalidad: cubano
+Edad: 34
+Nombre: juan
+Nacionalidad: peruano
+Edad: 23
+Nombre: Gabriel García Márquez
+Nacionalidad: Colombiano
+Edad: 87
+Nombre: Gabriel García Márquez
+Nacionalidad: Colombiano
+Edad: 87
+Nombre: Gabriel García Márquez
+Nacionalidad: Colombiano
+Edad: 87
+Nombre: stefania
+Nacionalidad: colombiana
+Edad: 17
+Nombre: Gabriel García Márquez
+Nacionalidad: Colombiano
+Edad: 87
+Nombre: Gabriel García
+Nacionalidad: Mexicano
+Edad: 87
+Nombre: raul
+Nacionalidad: colombiano
+Edad: 33
