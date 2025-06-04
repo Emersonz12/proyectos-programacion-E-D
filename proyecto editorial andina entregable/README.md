@@ -20,10 +20,16 @@ Ejecución del proyecto:
 1. Clonar el repositorio
  git clone
  cd proyectoandina
-
 2. Instalar dependencias
+✅ Asegúrate de tener Python instalado (versión 3.6 o superior).
+✅ Se recomienda usar un entorno virtual (venv).
  Django,djangorestframework
- pip install -r requirements.txt
+ pip install 
+ 
+ ⚠️ Si no tienes Django instalado, puedes instalarlo ejecutando:
+ pip install django
+Y para la API REST:
+pip install djangorestframework
 
 3. Ejecutar el backend (API Django)
  cd backend
